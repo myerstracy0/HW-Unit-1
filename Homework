@@ -1,0 +1,87 @@
+Forbes
+
+ GreenSky, Inc. is a financial technology company founded in 2006 based in Atlanta, Georgia. The company provides technology to banks and merchants to make loans to consumers for home improvement, solar, healthcare, and other purposes.[2] Financing for GreenSky credit programs is provided by federally insured, federal, and state-chartered financial institutions.[3] From 2012 to 2016 nearly $5 billion had been lent through the GreenSky credit program.
+
+     Genslar, L. (2017, September 05). The Middleman of Middle America https://www.forbes.com/partners/maz/090517/F0905.greensky.html
+
+*GreenSky
+
+* GreenSky, Inc. was incorporated in Delaware on July 12, 2017.
+
+* David Zalik
+
+* Still, Zalik had determination, along with tech smarts and Atlanta connections. In 2010, his original partner sold his stake and in stepped Robert Sheft, an investor who had founded RMA Home Services, which arranged the installation of windows and siding sold at Home Depot. When Zalik hit on the idea of helping small-business folk offer instant financing to consumers, the pair naturally started with home contractors. Zalik took local contractors to lunch and begged them to give GreenSky financing a try. His big pitch: less hassle than offering their customers financing from stalwarts like Wells Fargo and GE (now Synchrony).
+
+* Financing from stalwarts like Wells Fargo and GE (now Synchrony). In the fall of 2014, Zalik and other insiders sold 17% of GreenSky at a $1.8 billion valuation to TPG, Wellington Management, Iconiq Capital, and DST Global. Two years later, Fifth Third invested at double that valuation.
+
+## Business Activities: 
+
+* GreenSky was founded on the idea that payment, credit, and commerce could be enhanced using technology delivered via elegant user experience. We believed payment and credit could be an asset that empowers and enables commerce, not a distraction or impediment. Today, GreenSky delivers a service that helps businesses grow and delight their customers.
+
+Streamline for effectiveness but not at the cost of quality
+Honor speed but not at the cost of quality
+
+
+* Who is the company's intended customer?  
+Improvement merchants, furniture retailers, and elective medical providers in the United States.
+
+*Is there any information about the market size of this set of customers?
+N/A, from large to medium size businesses
+
+*What solution does this company offer that its competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+GreenSky offers installment loans and revolving credit products.
+GS is not a bank, we are a credit technology platform provider supporting federally insured, federal, and state-chartered financial institutions.
+Online lending
+point-of-sale lending
+In-app financing for home service
+Alternative data to approve loans
+consumers: zero-interest financing for a promotional period of 6 to 24 months. The vast majority of GreenSky's borrowers don't pay a dime in interest because they pay off the balance during that span.
+A contractor is vetted, approved, and trained by GreenSky.
+ The contractor picks the types of loans he wants to offer customers and agrees to GreenSky's fees.
+The contractor pitches financing to customer and helps her apply, usually via a mobile app. The customer’s driver's license is scanned, and she enters her income and Social Security and phone numbers.
+Using parameters set by banks, GreenSky underwrites the loan based on income, FICO credit score, and credit reports.
+Some 95% of customers are given a financing decision on the spot.
+An approved applicant receives loan agreement, disclosures, and a 16-digit account number electronically and in the mail.
+ If the approved applicant decides to accept the loan, she authorizes payments to the contractor by providing her account number.
+The contractor can receive up to 50% of the loan amount upfront, depending on the agreement with the customer.
+By keying in the borrower's account number, the contractor can process the payment as he would a credit card charge.
+10. Contractor receives the money within 24 hours.
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stack share to find this information.)
+ Java-based Web Services, primarily in a REST model, and SOAP
+ Gitlab and Gradle
+Fico Blaze and GDS Modellica
+Decision Engineer and DV360
+JSON and XML payloads
+SQL and database interactions
+LUA and Groovy
+
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+Payment, loans
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+Contractors provided access to more disposable funds
+The GreenSky Loan Program allows you to finance your DirectBuy purchases 
+GreenSky makes it easy for DirectBuy to offer credit to our customers with a fast
+GreenSky mobile app employs what the founder calls the "fat thumb rule"--every function can be done on a smartphone or tablet using one large digit.
+
+* What are the other major companies in this domain?
+SoFi
+OSCAR
+Lending HUb
+Affirm
+
+
+## Results
+
+* What has been the business impact of this company so far?
+IPO
+Customers not going to a branch for consumer products, it is a point of sale.
+Stock quotes and charts $4.32 +0.03 (+0.70%) Volume: 490,655 High: 4.42 / Low: 4.14
+
+
+* How is your company performing relative to competitors in the same domain?
+With every company there is a risk, customers not happy, vendors taking advantage or 
